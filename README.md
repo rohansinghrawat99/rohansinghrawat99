@@ -1,7 +1,7 @@
 
 ### Hi all, I'm [Rohan](https://rsroff.netlify.app/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-1&label=Views&color=blue&style=plastic" alt="pr-1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansinghrawat99&label=Views&color=blue&style=plastic" alt="pr-1" /> </p>
 
 - 🤓 I work with different private accounts on different platforms therefore github stats aren't a complete reflection.
 - 🔭 I’m currently working on [Explo](https://exploapp.com/).
