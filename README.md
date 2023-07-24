@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansinghrawat99&label=Views&color=blue&style=plastic" alt="pr-1" /> </p>
 
 - 🤓 I work with different private accounts on different platforms therefore github stats aren't a complete reflection.
-- 🔭 I’m currently working on [Explo](https://exploapp.com/).
+- 🔭 I’m currently working at [Devslane](https://devslane.com/).
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on open source React projects.
 - 💬 Ask me about React | Next | Node and Adonis(React Native coming sooon...)
